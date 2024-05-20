@@ -11,7 +11,7 @@ This is a React.js app that utilizes the Nasa API to display information and ima
 3. Install the dependencies: `npm install`
 
 ## Usage
-1. Obtain an API key from the Nasa API website, (https://api.nasa.gov)
+1. Obtain an API key from the Nasa API website, https://api.nasa.gov
 2. Create a `.env` file in the root directory of the project.
 3. Add your API key to the `.env` file: `REACT_APP_NASA_API_KEY=your-api-key`
 4. Start the development server: `npm start`
