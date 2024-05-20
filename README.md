@@ -1,7 +1,6 @@
 # APOD
 <img> </img>
 <img> </img>
-A React.JS app using Nasa API
 
 ## Description
 This is a React.js app that utilizes the Nasa API to display information and images related to astronomy and space Daily.
