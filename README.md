@@ -1,8 +1,6 @@
 # APOD
-
-![Uploading Screenshot_1.png…]()
-![Uploading Screenshot_2.png…]()
-
+![Screenshot_1](https://github.com/sahafmfaisal/APOD/assets/133376398/b8f71414-4455-4991-95cd-3e51e89c7b83)
+![Screenshot_2](https://github.com/sahafmfaisal/APOD/assets/133376398/22be5444-1a16-42af-acf2-2d77dac78f73)
 
 ## Description
 This is a React.js app that utilizes the Nasa API to display information and images related to astronomy and space Daily.
